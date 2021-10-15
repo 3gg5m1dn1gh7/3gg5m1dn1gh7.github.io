@@ -1,0 +1,1 @@
+alert('Use  Desktop Site for better use')
